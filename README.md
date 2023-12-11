@@ -1,4 +1,6 @@
+#Hi I'm Gab
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GA-Manimtim&show_icons=true&theme=radical)
+<img align="left" width="47%" scr="https://github-readme-stats.vercel.app/api?username=GA-Manimtim&show_icons=true&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="left" width="47%" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=GA-Manimtim&layout=compact" />
+
