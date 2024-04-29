@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Aaron R. Manimtim</h1>
-<h3 align="center">A passionate Software Quality Assurance Analysy from Philippines.</h3>
+<h3 align="center">A passionate Software Quality Assurance Analyst from Philippines.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
